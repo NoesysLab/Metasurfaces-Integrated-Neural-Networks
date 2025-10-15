@@ -14,7 +14,7 @@ The paper has submitted form publication under *IEEE Transactions on Wireless Co
 
 ----
 
-Pre-rpint available at: [arXiv:2504.00233](https://arxiv.org/abs/2504.00233)
+Pre-print available at: [arXiv:2504.00233](https://arxiv.org/abs/2504.00233)
 
 ---
 Cite as:
